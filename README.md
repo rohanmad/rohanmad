@@ -14,7 +14,7 @@ I'm a Junior at the University of California, San Diego, studying Computer Scien
 - Currently a Software Engineer Intern at Moebius Solutions
 
 When I'm not coding, you'll find me watching Netflix, following sports, or listening to music.
-Check out my <a href="rohanm.net" target="_blank">website</a>
+Check out my <a href="https://rohanm.net/" target="_blank">website</a>
 
 <br/>
 
