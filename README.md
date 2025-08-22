@@ -16,7 +16,6 @@ I'm a Junior at the University of California, San Diego, studying Computer Scien
 When I'm not coding, you'll find me watching Netflix, following sports, or listening to music.
 
 <br/>
-<br/>
 
 ## Tech Stack
 
