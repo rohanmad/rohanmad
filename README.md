@@ -91,12 +91,7 @@ When I'm not coding, you'll find me watching Netflix, following sports, or liste
 
 <br/>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohanmad&theme=radical" alt="GitHub Streak Stats" width="60%"/>
-</div>
-<br/>
-
-## Connect With Me
+## Connect With Me!
 
 <a href="https://www.linkedin.com/in/madanrohan">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
