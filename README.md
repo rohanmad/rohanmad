@@ -1,4 +1,4 @@
-# Hi there! I'm Rohan Madan
+# Hi there 👋! I'm Rohan Madan
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Computer+Science+Student;Machine+Learning+Enthusiast;Deep+Learning+Developer;Robotics+Explorer&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="README Typing SVG">
