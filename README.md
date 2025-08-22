@@ -69,9 +69,13 @@ When I'm not coding, you'll find me watching Netflix, following sports, or liste
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rohanmad&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohanmad&layout=compact&theme=radical&hide=php,jupyter%20notebook" alt="Top Languages" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=rohanmad&show_icons=true&theme=radical&include_all_commits=true&count_private=true" width="60%" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohanmad&theme=radical" width="60%" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohanmad&layout=compact&theme=radical&hide=php,jupyter%20notebook" width="60%" />
 </div>
+
 
 <br/>
 
