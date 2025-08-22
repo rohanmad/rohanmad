@@ -55,14 +55,6 @@ When I'm not coding, you'll find me watching Netflix, following sports, or liste
 
 <br/>
 
-#### Databases
-
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
-<br/>
-
 #### Cloud & DevOps
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -71,7 +63,7 @@ When I'm not coding, you'll find me watching Netflix, following sports, or liste
 
 <br/>
 
-#### Tools & Technologies
+#### Tools & Miscellaneous
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
