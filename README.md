@@ -93,10 +93,10 @@ When I'm not coding, you'll find me watching Netflix, following sports, or liste
 
 ## Connect With Me!
 
-<a href="https://www.linkedin.com/in/madanrohan">
+<a href="https://www.linkedin.com/in/madanrohan" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<a href="https://www.instagram.com/rohanmaddan">
+<a href="https://www.instagram.com/rohanmaddan" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
 </a>
 
