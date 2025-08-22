@@ -19,8 +19,6 @@ When I'm not coding, you'll find me watching Netflix, following sports, or liste
 
 ## Tech Stack
 
-<br/>
-
 #### Programming Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
