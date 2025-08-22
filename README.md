@@ -10,7 +10,7 @@
 
 I'm a Junior at the University of California, San Diego, studying Computer Science.
 
-- Deeply interested in software engineering
+- Deeply interested in full-stack development and machine learning
 - Currently a Software Engineer Intern at Moebius Solutions
 
 When I'm not coding, you'll find me watching Netflix, following sports, or listening to music.
