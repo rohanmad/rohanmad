@@ -4,34 +4,31 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Computer+Science+Student;Machine+Learning+Enthusiast;Deep+Learning+Developer;Robotics+Explorer&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
 </div>
 
-## 🎓 About Me
+## About Me
 
-I'm a **Computer Science student** at the **University of California, San Diego**, passionate about pushing the boundaries of technology through **machine learning** and **artificial intelligence**. My interests span across:
+I'm a Junior at the University of California, San Diego, studying Computer Science.
 
-- 🧠 **Deep Learning** & **Reinforcement Learning**
-- 🤖 **Robotics** and autonomous systems
-- ⚡ **Electronics** and hardware integration
-- 🔬 **Computer Vision** & **Natural Language Processing**
+- **Deep Learning** & **Reinforcement Learning**
+- **Robotics** and autonomous systems
+- **Electronics** and hardware integration
+- **Computer Vision** & **Natural Language Processing**
 
-When I'm not coding, you'll find me watching Netflix, following sports, or listening to music. Football was a big part of my life before quarantine! 😅 Always up for good memes too! 😂
+When I'm not coding, you'll find me watching Netflix, following sports, or listening to music. 
 
-## 🔗 Connect With Me
+### Connect With Me
 
 <div align="center">
-  <a href="https://twitter.com/your-twitter">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="https://www.linkedin.com/in/rohan-madan">
+  <a href="https://www.linkedin.com/in/madanrohan">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://www.instagram.com/your-instagram">
+  <a href="https://www.instagram.com/rohanmaddan">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 </div>
 
-## 💻 Tech Stack
+### Tech Stack
 
-### Programming Languages
+#### Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -74,7 +71,7 @@ When I'm not coding, you'll find me watching Netflix, following sports, or liste
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-## 🎯 Areas of Interest
+### Areas of Interest
 
 <div align="center">
   <img src="https://img.shields.io/badge/🤖_Robotics-FF6B6B?style=for-the-badge" alt="Robotics"/>
@@ -85,7 +82,7 @@ When I'm not coding, you'll find me watching Netflix, following sports, or liste
   <img src="https://img.shields.io/badge/🎯_Reinforcement_Learning-A29BFE?style=for-the-badge" alt="Reinforcement Learning"/>
 </div>
 
-## 📊 GitHub Statistics
+### GitHub Statistics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rohanmad&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%"/>
@@ -96,32 +93,8 @@ When I'm not coding, you'll find me watching Netflix, following sports, or liste
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohanmad&theme=radical" alt="GitHub Streak Stats" width="60%"/>
 </div>
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rohanmad&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
-</div>
-
-## 📈 Activity Graph
-
-<div align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=rohanmad&theme=radical" alt="Activity Graph"/>
-</div>
-
-## 📫 Profile Views & Stats
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=rohanmad&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/rohanmad?label=Followers&style=social" alt="GitHub Followers"/>
-  <img src="https://img.shields.io/github/stars/rohanmad?label=Stars&style=social" alt="GitHub Stars"/>
-</div>
-
 ---
 
 <div align="center">
   <i>"The future belongs to those who learn more skills and combine them in creative ways." - Robert Greene</i>
-</div>
-
-<div align="center">
-  <b>Thanks for visiting! 🚀 Let's connect and build something amazing together!</b>
 </div>
