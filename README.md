@@ -17,7 +17,7 @@ When I'm not coding, you'll find me watching Netflix, following sports, or liste
 
 <br/>
 
-### Connect With Me
+## Connect With Me
 
 <a href="https://www.linkedin.com/in/madanrohan">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -29,7 +29,7 @@ When I'm not coding, you'll find me watching Netflix, following sports, or liste
 <br/>
 <br/>
 
-### Tech Stack
+## Tech Stack
 
 <br/>
 
