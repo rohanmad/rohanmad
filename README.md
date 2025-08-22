@@ -16,17 +16,6 @@ I'm a Junior at the University of California, San Diego, studying Computer Scien
 When I'm not coding, you'll find me watching Netflix, following sports, or listening to music.
 
 <br/>
-
-## Connect With Me
-
-<a href="https://www.linkedin.com/in/madanrohan">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="https://www.instagram.com/rohanmaddan">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-</a>
-
-<br/>
 <br/>
 
 ## Tech Stack
@@ -111,6 +100,18 @@ When I'm not coding, you'll find me watching Netflix, following sports, or liste
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohanmad&theme=radical" alt="GitHub Streak Stats" width="60%"/>
 </div>
+<br/>
+
+## Connect With Me
+
+<a href="https://www.linkedin.com/in/madanrohan">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://www.instagram.com/rohanmaddan">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
+
+<br/>
 
 <br/>
 <br/>
