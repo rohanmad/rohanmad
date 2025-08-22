@@ -1,17 +1,15 @@
 # Hi there! 👋 I'm Rohan Madan
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Computer+Science+Student;Machine+Learning+Enthusiast;Deep+Learning+Developer;Robotics+Explorer&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Computer+Science+Student;Machine+Learning+Enthusiast;Deep+Learning+Developer;Robotics+Explorer&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="README Typing SVG">
 </div>
 
 ## About Me
 
 I'm a Junior at the University of California, San Diego, studying Computer Science.
 
-- **Deep Learning** & **Reinforcement Learning**
-- **Robotics** and autonomous systems
-- **Electronics** and hardware integration
-- **Computer Vision** & **Natural Language Processing**
+- I'm deeply interested in software engineering
+- I'm currently a Software Engineer Intern for Moebius Solutions
 
 When I'm not coding, you'll find me watching Netflix, following sports, or listening to music. 
 
