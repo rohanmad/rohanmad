@@ -15,6 +15,7 @@ I'm a Junior at the University of California, San Diego, studying Computer Scien
 
 When I'm not coding, you'll find me watching Netflix, following sports, or listening to music.<br/>
 Check out my <a href="https://rohanm.net/" target="_blank">website</a>
+<br/>
 View my <a href="https://drive.google.com/file/d/18Zq3hUcrBMz7ibNaWXoFTP5XiMN9b9fq/view?usp=sharing" target="_blank">resume</a>
 
 
