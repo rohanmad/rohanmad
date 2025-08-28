@@ -1,5 +1,4 @@
 # Hi there! I'm Rohan Madan 👋
-<br/>
 
 ## About Me
 
